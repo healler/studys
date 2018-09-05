@@ -1,0 +1,61 @@
+# C#이란?
+-20180905-
+c#-.net framework,c#(나우캠퍼스 )
+c:프레임워크X
+1..net framework
+운영체제와 밀접한 관계가 됨
+부분으로 동화됨
+Microsoft .net framework...으로 되어 있음
+프레임워크 안에서 c#으로 코딩
+구성
+라이브러리 많이 제공
+클래스 라이브러리
+{
+window form:윈도우 폼 (운영체제에서 만듬)
+ASP.NET:웹
+ADO.NET:데이터베이스
+기본 클래스 라이브러리(BCL)
+}
+공용언어 런타임(CLR):모듈(실행용)
+1.코딩 파일 만듬
+2.CLR에서 기계어 코드 만듬
+운영체제
+1)관리되는 응용 프로그램
+런타임
+클래스 라이브러리
+사용자 지정 개체 라이브러리
+2)관리되지 않는 응용프로그램
+IIS
+ASP.NET
+관리되는 웹 프로그램
+클래스 라이브러리 목표
+MSDN참고
+C#언어 문법=약속
+실용적 문법
+7.0->이상
+BCL(basic class library):기본 제공
+Window form:윈도우 응용프로그램 제작
+콘솔:간단하기때문에 시험용으로 중요
+ADO.NET,ASP.NET
+
+CLR이란:
+컴파일된 코드를 실행
+exe파일 실행
+.NET Framework는 os가리지 않음
+IL,MSIL:중간언어
+exe,dll:어셈블리
+중간언어: 공통언어
+모든 다른 언어를 이용해서 프로젝트 개발 가능
+CTS
+공통 데이터형,형식 정의
+int,float->system.int32,.....==>객체
+객체 개념 이해 중요
+CLS
+공통 언어 사양 정의
+최소 코드 규칙
+구조 익히는 것이 중요
+
+
+https://www.youtube.com/watch?v=
+PKxm0vkoWgo&list=PLOKPEzlY4JKQNiHEQ4SDBx
+AFo9RDod8Tm&index=2
